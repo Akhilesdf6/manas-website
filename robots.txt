@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://headless-vdgxylyanad-achukakkode-140b.wix-site-host.com/sitemap.xml
